@@ -1,4 +1,4 @@
-# Hello there, Iam ALISON MARQUES!
+# Hello there, I am ALISON MARQUES!
 
 - 🔭 I’m BUSINESS ANALYST.
 - 🌱 I’m currently learning prescritive analysis with ML models.
