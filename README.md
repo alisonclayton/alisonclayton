@@ -1,7 +1,7 @@
 # Hello there, I am ALISON MARQUES!
 
-- 🔭 I’m BUSINESS ANALYST.
-- 🌱 I’m currently learning prescritive analysis with ML models.
+- 🔭 I’m DATA AND BUSINESS ANALYST.
+- 🌱 I’m currently in intense learning about AWS and prescritive analysis with ML models.
 <!-- - 📫 How to reach me: ... -->
 <br>
 <!-- <h3>GENERAL VISION</h3> -->
